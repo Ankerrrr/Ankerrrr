@@ -1,1 +1,1 @@
-<img src="./name.gif">
+<img src="./name.gif" alignItem="center">
