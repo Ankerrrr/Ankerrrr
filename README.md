@@ -1,3 +1,3 @@
-<img src="./name.gif" style = "
-  align-items: center;
-  height: 300px;">
+<p align="center">
+  <img src="./name.gif" height="300px">
+</p>
