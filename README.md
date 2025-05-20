@@ -1,1 +1,4 @@
-<img src="./name.gif" alignItem="center">
+<img src="./name.gif" style = "display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;">
